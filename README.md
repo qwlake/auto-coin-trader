@@ -18,7 +18,7 @@ python3
 ### Installing
 
 windows:
-1. [본 사이트](https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib)에서 ```.whl``` 파일 다운로드
+1. [TA-lib](https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib) 파일 다운로드
 2. 다운로드 폴더로 이동 후 설치
 ```
 cd "Your download folder"
